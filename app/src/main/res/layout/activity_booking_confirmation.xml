@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C9201F1F"
+    android:orientation="vertical"
+    tools:context=".HotelBookingClasses.BookingConfirmationActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:gravity="center"
+        android:text="BOOKING CONFIRMED"
+        android:textColor="#F0FFFFFF"
+        android:textSize="24sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Your Unique Reference Number"
+        android:textColor="#F0FFFFFF"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/tvUniqueID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:fontFamily="@font/archivo_black"
+        android:gravity="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="36sp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:id="@+id/btnViewDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Show Details" />
+
+    <ScrollView
+        android:id="@+id/theScroller"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/lgrey" />
+</LinearLayout>

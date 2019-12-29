@@ -1,0 +1,488 @@
+[
+    {
+        "HotelID": 1,
+        "Picture": "https://q-cf.bstatic.com/images/hotel/max1280x900/185/185880063.jpg",
+        "StarRating": 3,
+        "Description": "Located in Burnaby, only a 20 minute drive from downtown Vancouver, this motel is close to area freeways, an ideal starting point for discovering the surrounding area. The Happy Day Inn places guests only a short distance from beautiful parks, golf courses and a nearby casino. Guests at the Happy Day can start the morning with a complimentary breakfast, enjoy a refreshing workout in the fitness center, or browse the internet with wireless access.",
+        "HotelName": "Happy Day Inn",
+        "Location": "Burnaby",
+        "PhoneNumber": "604-524-8501",
+        "Standard": {
+            "Quantity": 10,
+            "Price": 129
+        },
+        "Double": {
+            "Quantity": 11,
+            "Price": 159
+        },
+        "Suite": {
+            "Quantity": 2,
+            "Price": 199
+        },
+        "Luxury": {
+            "Quantity": 10,
+            "Price": 149
+        },
+        "Website": "https://HappydayInn.com",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 2,
+        "StarRating": 4,
+        "Picture": "https://r-cf.bstatic.com/images/hotel/max1280x900/178/17800851.jpg",
+        "Description": "This Burnaby hotel is within 5 minutes' drive from the Pacific National Exhibition and Playland amusement park. Free parking is included. A balcony is featured in each room. An open-air courtyard with a flower and rock garden offers guest relaxation at Inn 401. A fitness room including a cross trainer, treadmill and weight training station is available for guests at this property",
+        "HotelName": "401 Inn",
+        "Location": "Surrey",
+        "PhoneNumber": "778-718-0341",
+        "Standard": {
+            "Quantity": 20,
+            "Price": 149
+        },
+        "Double": {
+            "Quantity": 20,
+            "Price": 169
+        },
+        "Suite": {
+            "Quantity": 6,
+            "Price": 299
+        },
+        "Luxury": {
+            "Quantity": 25,
+            "Price": 229
+        },
+        "Website": "http://401Inn.com",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 3,
+        "StarRating": 3,
+        "Picture": "https://t-ec.bstatic.com/images/hotel/max1024x768/270/27000189.jpg",
+        "Description": "Park Plaza Hotels & Resorts, formerly Park Plaza International Hotels, Inns and Resorts and commonly known as just Park Plaza, is a hotel chain which runs several hotel groups as franchises. It was established in 1986 as a company and acquired by Olympus Real Estate in 1997",
+        "HotelName": "Park Plaza",
+        "Location": "New Westminster",
+        "PhoneNumber": "604-957-0326",
+        "Standard": {
+            "Quantity": 44,
+            "Price": 169
+        },
+        "Double": {
+            "Quantity": 60,
+            "Price": 199
+        },
+        "Suite": {
+            "Quantity": 16,
+            "Price": 399
+        },
+        "Luxury": {
+            "Quantity": 40,
+            "Price": 179
+        },
+        "Website": "https://Parkplaza.com",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 4,
+        "StarRating": 2,
+        "Picture": "https://t-ec.bstatic.com/images/hotel/max1024x768/179/179971407.jpg",
+        "Description": "Set 2 km from the Capilano Suspension Bridge, this understated hotel is 10 km from the Vancouver Aquarium and 8 km from the Canada Place convention centre. Casual rooms feature free Wi-Fi and flat-screens, plus tea and coffeemaking facilities. Upgraded rooms add microwaves and minifridges. Suites include kitchenettes and living areas with pull-out sofas.",
+        "HotelName": "Capilano Inn",
+        "Location": "North Vancouver",
+        "PhoneNumber": "236-909-3226",
+        "Standard": {
+            "Quantity": 25,
+            "Price": 199
+        },
+        "Double": {
+            "Quantity": 26,
+            "Price": 229
+        },
+        "Suite": {
+            "Quantity": 27,
+            "Price": 399
+        },
+        "Luxury": {
+            "Quantity": 28,
+            "Price": 249
+        },
+        "Website": "http://capilanoInn.com",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 5,
+        "StarRating": 5,
+        "Picture": "https://cache.marriott.com/marriottassets/marriott/YVRJW/yvrjw-exterior-0013-hor-wide.jpg",
+        "Description": "Indulge in a luxury hotel experience unlike any other at JW Marriott Parq Vancouver. With Western Canada's majestic mountaintops as its backdrop, our hotel boasts a distinct sense of place in British Columbia with beautifully-designed accommodations and impeccable service. Anchored by the stylish neighborhoods of Gastown and Yaletown, our hotel is at the epicenter of downtown Vancouver’s dynamic entertainment district near Rogers Arena, BC Place and Queen Elizabeth Theatre. After exploring the city's attractions, relax in our Spa by JW, workout in the hotel fitness center or sample innovative regional cuisine in oureith distinct hotel restaurants and lounges. In the evening, retreat to waterfront, luxury accommodations with floor-to-ceiling windows and scenic city, ocean and mountain views. If visiting for business or social reasons, host your event in 60,065 square feet of venue space, including Vancouver's largest hotel ballroom. Enjoy it all at the brand new JW Marriott Parq Vancouver.",
+        "HotelName": "JW Marriot",
+        "Location": "Downtown Vancouver",
+        "PhoneNumber": "604-910-7310",
+        "Standard": {
+            "Quantity": 19,
+            "Price": 299
+        },
+        "Double": {
+            "Quantity": 17,
+            "Price": 399
+        },
+        "Suite": {
+            "Quantity": 10,
+            "Price": 599
+        },
+        "Luxury": {
+            "Quantity": 48,
+            "Price": 499
+        },
+        "Website": "http://JWMarriot.com",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 6,
+        "StarRating": 4,
+        "Picture": "https://images.trvl-media.com/hotels/1000000/900000/891400/891367/a4148797_y.jpg",
+        "Description": "Bear Creek Park, home of the Bear Creek Park Train and Mini Golf Course, as well as the Surrey Art Gallery, is just over 1 km away. The Surrey Museum is 14.5 km away from Grouse Creek Motel. Vancouver International Airport is just over a half hour from the motel.",
+        "HotelName": "Grousse Inn",
+        "Location": "North Vancouver",
+        "PhoneNumber": "236-413-7525",
+        "Standard": {
+            "Quantity": 68,
+            "Price": 299
+        },
+        "Double": {
+            "Quantity": 35,
+            "Price": 319
+        },
+        "Suite": {
+            "Quantity": 20,
+            "Price": 499
+        },
+        "Luxury": {
+            "Quantity": 35,
+            "Price": 399
+        },
+        "Website": "https://GrousseInn.com",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 7,
+        "StarRating": 5,
+        "Picture": "https://r-cf.bstatic.com/images/hotel/max1280x900/199/19991409.jpg",
+        "Description": "Offering an indoor pool, the Holiday Inn North Vancouver is located at the base of the North Shore Mountains, only 15 minutes’ drive from Vancouver city centre. Free WiFi is available in all rooms. A flat-screen cable TV is included for the guests at the North Vancouver Holiday Inn. A microwave, mini-refrigerator, and coffee maker are included. The Pantry restaurant at the North Vancouver Holiday Inn is open daily for breakfast, lunch and dinner. Guests can also enjoy Seymour's Pub or have a cocktail in Coach House Lounge.",
+        "HotelName": "Holiday Inn",
+        "Location": "North Vancouver",
+        "PhoneNumber": "604-806-7144",
+        "Standard": {
+            "Quantity": 25,
+            "Price": 239
+        },
+        "Double": {
+            "Quantity": 44,
+            "Price": 269
+        },
+        "Suite": {
+            "Quantity": 20,
+            "Price": 349
+        },
+        "Luxury": {
+            "Quantity": 23,
+            "Price": 299
+        },
+        "Website": "https://holidayInn.com",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 8,
+        "StarRating": 3,
+        "Picture": "https://q-cf.bstatic.com/images/hotel/max1280x900/181/18142196.jpg",
+        "Description": "Moments from Vancouver International Airport, this hotel offers free shuttle service to and from the airport. An on-site restaurant as well as modern guestrooms are featured. Start the day at the Sandman Hotel Vancouver Airport with a cup of coffee from in-room coffeemakers or with a workout in the on-site fitness center. Relax in the hotel's whirlpool or enjoy a cocktail and a meal from the on-site Moxie's Grill & Bar.",
+        "HotelName": "Sandman Hotel Vancouver Airport",
+        "Location": "Richmond",
+        "PhoneNumber": "778-547-2388",
+        "Standard": {
+            "Quantity": 32,
+            "Price": 329
+        },
+        "Double": {
+            "Quantity": 21,
+            "Price": 349
+        },
+        "Suite": {
+            "Quantity": 17,
+            "Price": 599
+        },
+        "Luxury": {
+            "Quantity": 30,
+            "Price": 389
+        },
+        "Website": "https://SandmanHotel.com",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 9,
+        "StarRating": 4,
+        "Picture": "https://q-cf.bstatic.com/images/hotel/max1280x900/177/177818562.jpg",
+        "Description": "Featuring a swimming pool and fitness centre, this pet-friendly hotel offers an on-site restaurant and bar. A free shuttle service is available for all guests. Free WiFi is included. Vancouver city centre is 40 minutes' drive away. A flat-screen cable TV with video game options are featured in each guest room at Sheraton Vancouver Guildford Hotel. A work desk and in-room coffee machine are also provided. Private bathrooms offer a hairdryer and warm showers.",
+        "HotelName": "Sheraton Vancouver Guildford Hotel",
+        "Location": "New Westminster",
+        "PhoneNumber": "778-118-7846",
+        "Standard": {
+            "Quantity": 85,
+            "Price": 269
+        },
+        "Double": {
+            "Quantity": 55,
+            "Price": 299
+        },
+        "Suite": {
+            "Quantity": 7,
+            "Price": 599
+        },
+        "Luxury": {
+            "Quantity": 26,
+            "Price": 499
+        },
+        "Website": "http://CpPlaza.com",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 10,
+        "StarRating": 3,
+        "Picture": "https://r-cf.bstatic.com/images/hotel/max1280x900/679/6798430.jpg",
+        "Description": "Originally built in 1892, the Met Hotel combines old-world charm with today's modern conveniences, including free wireless internet access and in-room flat-screen TVs. Guests at the hotel can also enjoy free morning coffee service as well as completely non-smoking accommodation.",
+        "HotelName": "Met Hotel",
+        "Location": "New Westminster",
+        "PhoneNumber": "604-109-6722",
+        "Standard": {
+            "Quantity": 87,
+            "Price": 169
+        },
+        "Double": {
+            "Quantity": 53,
+            "Price": 189
+        },
+        "Suite": {
+            "Quantity": 18,
+            "Price": 399
+        },
+        "Luxury": {
+            "Quantity": 21,
+            "Price": 299
+        },
+        "Website": "https://MetHotel.com",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 11,
+        "StarRating": 2,
+        "Picture": "https://media-cdn.tripadvisor.com/media/photo-s/0e/6d/bf/ab/executive-plaza-hotel.jpg",
+        "Description": "Executive Plaza Hotel, Coquitlam features a fitness center and tennis courts. Guests can use the hot tub or receive a free 15-minute massage. A business center is also on-site. Wild Fig restaurant at the Executive Plaza Hotel in Coquitlam serves West Coast cuisine. The Lounge offers live entertainment on weekends and nightly drink specials.",
+        "HotelName": "Executive Plaza Hotel",
+        "Location": "Burnaby",
+        "PhoneNumber": "604-898-4299",
+        "Standard": {
+            "Quantity": 15,
+            "Price": 99
+        },
+        "Double": {
+            "Quantity": 31,
+            "Price": 129
+        },
+        "Suite": {
+            "Quantity": 12,
+            "Price": 149
+        },
+        "Luxury": {
+            "Quantity": 37,
+            "Price": 139
+        },
+        "Website": "http://EXPlazaHotel.com",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 12,
+        "StarRating": 4,
+        "Picture": "https://s-ec.bstatic.com/images/hotel/max1024x768/115/115788724.jpg",
+        "Description": "Every room at this hotel is air conditioning and is fitted with a flat-screen TV with satellite channels. Some rooms have a seating area to relax in after a busy day. You will find a safety deposit box, complimentary bottles of water as well as tea and coffee makers in the room. All rooms have a private bathroom with a shower and bidet, with bathrobes provided. Extras include slippers, free toiletries and a hairdryer.",
+        "HotelName": "Surestay Plus Hotel",
+        "Location": "Surrey",
+        "PhoneNumber": "236-399-0102",
+        "Standard": {
+            "Quantity": 70,
+            "Price": 129
+        },
+        "Double": {
+            "Quantity": 44,
+            "Price": 139
+        },
+        "Suite": {
+            "Quantity": 7,
+            "Price": 159
+        },
+        "Luxury": {
+            "Quantity": 24,
+            "Price": 149
+        },
+        "Website": "http://Surestay.ca",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 13,
+        "StarRating": 4,
+        "Picture": "https://images.trvl-media.com/hotels/7000000/6600000/6590300/6590245/704dab97_l.jpg",
+        "Description": "Set in a building dating to 1912, this unfussy hotel is a 2-minute walk from New Westminster Station, a 6-minute walk from the River Market mall and a 12-minute walk from the Waterfront Esplanade and Park. The unassuming, Craftsman-style apartment suites have free WiFi, wood floors and period furnishings. All feature living rooms, bedrooms, fully equipped kitchens and bathrooms with antique claw-foot tubs and showers.",
+        "HotelName": "Arundel Mansions Hotel",
+        "Location": "New Westminster",
+        "PhoneNumber": "604-866-8670",
+        "Standard": {
+            "Quantity": 17,
+            "Price": 149
+        },
+        "Double": {
+            "Quantity": 19,
+            "Price": 179
+        },
+        "Suite": {
+            "Quantity": 14,
+            "Price": 269
+        },
+        "Luxury": {
+            "Quantity": 24,
+            "Price": 239
+        },
+        "Website": "https://Arundel.ca",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 14,
+        "StarRating": 5,
+        "Picture": "https://q-cf.bstatic.com/images/hotel/max1280x900/176/176774991.jpg",
+        "Description": "Offering on-site dining and an indoor pool, this hotel is located inside of the Vancouver International Airport. Guests can the on-site spa and fitness centre. A cable TV is included in each guest room. Floor-to-ceiling windows showcasing views of the surrounding mountains and runways are featured in all rooms at Fairmont Vancouver Airport In-Terminal Hotel. A minibar and tea and coffee making facilities are provided.",
+        "HotelName": "Fairmont Vancouver Airport In-Terminal Hotel",
+        "Location": "Richmond",
+        "PhoneNumber": "236-705-3216",
+        "Standard": {
+            "Quantity": 87,
+            "Price": 289
+        },
+        "Double": {
+            "Quantity": 31,
+            "Price": 359
+        },
+        "Suite": {
+            "Quantity": 18,
+            "Price": 599
+        },
+        "Luxury": {
+            "Quantity": 31,
+            "Price": 399
+        },
+        "Website": "http://InnQuay.com",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 15,
+        "StarRating": 5,
+        "Picture": "https://s-ec.bstatic.com/images/hotel/max1024x768/156/156580843.jpg",
+        "Description": "Unfussy rooms feature free Wi-Fi, smart TVs, desks and designer toiletries, as well as city and/or mountain views. Upgraded rooms add sitting areas and mobile workstations. Amenities include a heated outdoor pool, a hot tub and a gym, plus a rooftop deck with a bar and scenic views. There's event space, a lobby cafe, and a chic restaurant and bar on the square.",
+        "HotelName": "Civic Hotel",
+        "Location": "Richmond",
+        "PhoneNumber": "604-596-5923",
+        "Standard": {
+            "Quantity": 21,
+            "Price": 339
+        },
+        "Double": {
+            "Quantity": 50,
+            "Price": 399
+        },
+        "Suite": {
+            "Quantity": 17,
+            "Price": 499
+        },
+        "Luxury": {
+            "Quantity": 20,
+            "Price": 449
+        },
+        "Website": "http://civic.ca",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 16,
+        "StarRating": 4,
+        "Picture": "https://s-ec.bstatic.com/images/hotel/max1024x768/135/135438721.jpg",
+        "Description": "Days Inn is a hotel chain headquartered in the United States. It was founded in 1970 by Cecil B. Day, with the first location opening in Tybee Island, Georgia. The brand is now a part of the Wyndham Hotels & Resorts, based in Parsippany, New Jersey, which used to be a part of Cendant.",
+        "HotelName": "Days Inn",
+        "Location": "Downtown Vancouver",
+        "PhoneNumber": "236-837-4429",
+        "Standard": {
+            "Quantity": 20,
+            "Price": 169
+        },
+        "Double": {
+            "Quantity": 53,
+            "Price": 199
+        },
+        "Suite": {
+            "Quantity": 18,
+            "Price": 249
+        },
+        "Luxury": {
+            "Quantity": 23,
+            "Price": 229
+        },
+        "Website": "http://daysinn.com",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 17,
+        "StarRating": 3,
+        "Picture": "https://media-cdn.tripadvisor.com/media/photo-s/02/6b/89/8c/queens-hotel-blackpool.jpg",
+        "Description": "A 14-minute walk from the Starlight Casino, this no-nonsense hotel close to shops and restaurants is 9 km from the Burnaby Village Museum and 20 km from the Vancouver International Airport. Low-key rooms feature free WI-Fi, flat-screen TVs, safes and fans. Upgraded rooms add air-conditioning, microwaves and minifridges.",
+        "HotelName": "Queens Hotel",
+        "Location": "Surrey",
+        "PhoneNumber": "604-347-9923",
+        "Standard": {
+            "Quantity": 77,
+            "Price": 159
+        },
+        "Double": {
+            "Quantity": 15,
+            "Price": 179
+        },
+        "Suite": {
+            "Quantity": 12,
+            "Price": 239
+        },
+        "Luxury": {
+            "Quantity": 45,
+            "Price": 219
+        },
+        "Website": "http://queens.ca",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    },
+    {
+        "HotelID": 18,
+        "StarRating": 5,
+        "Picture": "https://s3-media0.fl.yelpcdn.com/bphoto/8uernBbvLJ1AHYQEYP6i3Q/ls.jpg",
+        "Description": "Situated in the heart of Richmond only 100 m to the market square, The Turf Hotel has a bar, on-site dining and rooms with free WiFi access. Sky Sports and BT Sports are available in the bar areas. All guest rooms in the hotel are equipped with a kettle. The private bathroom is fitted with free toiletries.",
+        "HotelName": "Turf Hotel",
+        "Location": "Burnaby",
+        "PhoneNumber": "236-988-8550",
+        "Standard": {
+            "Quantity": 19,
+            "Price": 349
+        },
+        "Double": {
+            "Quantity": 28,
+            "Price": 389
+        },
+        "Suite": {
+            "Quantity": 17,
+            "Price": 549
+        },
+        "Luxury": {
+            "Quantity": 32,
+            "Price": 499
+        },
+        "Website": "https://turfhotel.ca",
+        "Policies": "Non-Smoking,No Pets,Security Deposit needed,Free cancellation upto 2 days before Check - in,Late Check-out subject to extra fee and availabilty"
+    }
+]

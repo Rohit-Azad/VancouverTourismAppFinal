@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Vancouver Tourism</string>
+    <string name="textAllItems">Hotel Booking</string>
+    <string name="textMovies">Car Rental</string>
+    <string name="textTvShows">Misc Services</string>
+    <string name="ContentDesc" />
+
+    <string name="hourly_price">Hourly Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="select_rental_location">Select Rental Location:</string>
+    <string name="daily">Daily</string>
+    <string name="hourly">Hourly</string>
+    <string name="your_booking_has_been_completed">Your Booking has been completed</string>
+    <string name="API_KEY">trnsl.1.1.20170425T085917Z.580fec9ed721d387.9caf5bd2514ca1581b95de321974dce826ef5064</string>
+    <string name="start_new_conversation">New Conversation</string>
+    <string name="start_new_translation">Text Translate</string>
+    <string name="about">About App</string>
+    <string name="about_yandex">Powered by Yandex.Translate</string>
+    <string name="new_conversation">Conversation</string>
+    <string name="new_translate">Translate</string>
+    <string name="hint_text">Tap to enter text</string>
+    <string name="no_internet_connection">No Internet Connection Available</string>
+    <string name="speech_prompt">Speak Now</string>
+    <string name="language_pack_missing">This language speech pack needs to be installed</string>
+    <string name="language_not_supported">This language speech is currently not supported</string>
+    <string name="select_matching_text">Select Matching Text</string>
+    <string name="process_tts">Switching Language</string>
+    <string name="no_text">No Text Available</string>
+    <color name="textback">#FF1100</color>
+    <color name="pink">#ffc0cb</color>
+
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="RememberMe">admin</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Logo">Logo</string>
+    <string name="FirstName">FirstName</string>
+    <string name="LastName">LastName</string>
+    <string name="Email">Role</string>
+    <string name="ConfirmEmailAddress">Confirm Email Address</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="registrationPage">Registration Page</string>
+    <string name="main_page">Main Page</string>
+
+
+    <string name="location_settings_title">Improve location accuracy</string>
+    <string name="location_settings">Settings</string>
+    <string name="location_skip">skip</string>
+    <string name="location_instructions">To enhance your Maps experience:\n\n• Turn on GPS and mobile network location</string>
+    <string name="never_show_again">Never show this again</string>
+    <string name="location_not_found">Location not found</string>
+
+    <string name="saved_bathrooms">Recent Bathrooms</string>
+    <string name="map_title_section">Map</string>
+    <string name="add_title_section">Add Bathroom</string>
+    <string name="feedback_title_section">Feedback</string>
+    <string name="title_directions">Directions</string>
+    <string name="email">rohit3049@gmail.com</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="location_not_enabled">Location not enabled</string>
+    <string name="no_nearby_locations">No nearby restrooms found</string>
+    <string name="no_nearby_locations_initial">No restrooms found nearby; if you know of any please add them!</string>
+    <string name="no_search_locations">No restrooms found in %1$s</string>
+    <string name="no_search_locations_initial">No restrooms found with Search</string>
+    <string name="no_recent_locations">You don\'t have any recent restrooms</string>
+    <string name="no_marker_selected">Select a map pin to view its info</string>
+    <string name="action_directions">Text</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="search_button">Find a Restroom</string>
+    <string name="search_location_button">Restrooms Near You</string>
+    <string name="about_button">About</string>
+    <string name="submit_button">Submit</string>
+    <string name="add_activity_title">Add a Restroom</string>
+    <string name="list_activity_title">Search Results</string>
+    <string name="action_search">Search Address</string>
+    <string name="search_hint">New Westminster,BC</string>
+    <string name="restrooms_found">Restrooms found!</string>
+    <string name="success_toast">Restroom successfully submitted</string>
+    <string name="fail_toast">There was an error submitting the restroom</string>
+    <string name="accessible">Accessible</string>
+    <string name="unisex">Unisex</string>
+    <string name="score">Score:  </string>
+    <string name="unknown">No Ratings</string>
+    <string name="no_results">No results have been found.</string>
+    <string name="connected">Connected</string>
+
+    <!-- Strings for the Add Bathroom fragment -->
+    <string name="add_bathroom_title">Submit a restroom to our database</string>
+    <string name="add_bathroom_place">* Location/Place/Business Name</string>
+    <string name="add_bathroom_address">* Street Address</string>
+    <string name="add_bathroom_city">* City</string>
+    <string name="add_bathroom_state">* State/Province</string>
+    <string name="add_bathroom_country">* Country</string>
+    <string name="add_bathroom_accessible">Accessible</string>
+    <string name="add_bathroom_unisex">Unisex</string>
+    <string name="add_bathroom_directions">Directions</string>
+    <string name="add_bathroom_direction_hint">(e.g.: third floor in the back, by the dressing rooms)</string>
+    <string name="add_bathroom_comment">Comment</string>
+    <string name="add_bathroom_comment_hint">(e.g.: you have to be a "paying customer," just act like you are browsing for a bit)</string>
+    <string name="add_bathroom_save">Save Restroom</string>
+
+    <string name="open_in_maps">Open in Google Maps</string>
+    <string name="bathroom_details_cafe">Modern Times Cafe</string>
+    <string name="bathroom_details_address">New Westminster,BC,CA</string>
+
+    <string name="map_api_key">AIzaSyBv4kV8yiVNrP9WH8v-CH7mKts9bj686ng</string>
+    <string name="search_here">Search here..</string>
+</resources>

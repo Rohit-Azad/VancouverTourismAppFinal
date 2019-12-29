@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ltgrey2"
+    android:orientation="vertical"
+    tools:context=".EmergencyServicesInfoActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:background="@color/blue"
+                android:text="Critical or life threatening condition?"
+                android:textColor="@color/cardview_light_background"
+                android:textSize="40sp" />
+
+            <TextView
+                android:id="@+id/textView28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:text="Call 9-1-1 or go immediately to your nearest hospital Emergency Department (ED) if you have been in a major accident or are experiencing:"
+                android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView29"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:padding="10dp"
+                android:text="1) Trouble breathing or catching your breath\n2) Severe abdominal or chest pain/pressure\n3) Weakness or tingling on one side of your body\n4) Loss of consciousness\n5) Heavy bleeding "
+                android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:background="@color/blue"
+                android:text="Non-life-threatening emergency?"
+                android:textColor="@color/cardview_light_background"
+                android:textSize="40sp" />
+
+            <TextView
+                android:id="@+id/textView31"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:text="For non-life-threatening emergencies such as sprains, strains, fevers, minor burns, and infections, visit an Urgent Primary Care Centre (UPCC) nearest to you. These centres are open daily and staffed with emergency-trained doctors and nurses to handle medical emergencies that don't require admission to hospital."
+                android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView32"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:background="@color/blue"
+                android:text="Crisis intervention and suicide prevention"
+                android:textColor="@color/cardview_light_background"
+                android:textSize="40sp" />
+
+            <TextView
+                android:id="@+id/textView33"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:text="http://www.vch.ca/your-care/mental-health-substance-use/accessing-mental-health-substance-use-services"
+                android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView34"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:background="@color/blue"
+                android:text="Not sure if it’s an emergency?"
+                android:textColor="@color/cardview_light_background"
+                android:textSize="40sp" />
+
+            <TextView
+                android:id="@+id/textView35"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:text="Call 8-1-1 (call 7-1-1 for hearing-impaired), to access HealthLink BC services for trusted health advice. This free, 24-hour non-emergency multi-lingual telephone service is staffed by trained registered nurses, pharmacists and dieticians who can help answer your health-related questions. "
+                android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView11"
+                android:layout_width="wrap_content"
+                android:layout_height="789dp"
+                app:srcCompat="@drawable/faq1" />
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="wrap_content"
+                android:layout_height="975dp"
+                app:srcCompat="@drawable/faq2" />
+
+            <ImageView
+                android:id="@+id/imageView13"
+                android:layout_width="wrap_content"
+                android:layout_height="558dp"
+                app:srcCompat="@drawable/faq3" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

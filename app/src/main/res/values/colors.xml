@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D2232727</color>
+    <color name="colorPrimaryDark">#A9111111</color>
+    <color name="colorAccent">#B30000</color>
+    <color name="Reeeeeeeee">#72AAA398</color>
+    <color name="colorDarkGray">#A2A2A2</color>
+    <color name="chat_box_left">#FFF9C0</color>
+    <color name="chat_box_right">#D2FAD5</color>
+    <color name="chat_box_translate">#676977</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#7B000000</color>
+    <color name="yellow">#fff5f504</color>
+    <color name="red">#B71C1C</color>
+    <color name="blue">#C90000FF</color>
+    <color name="design_default_color_primary">#D2232727</color>
+</resources>

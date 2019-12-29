@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context=".CarRentalClasses.SelectionCriteriaActivity">
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="Customize your Search:"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="69dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Vehicle Type:"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="28sp" />
+
+        <Spinner
+            android:id="@+id/spinnerVehicleType"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@color/common_google_signin_btn_text_dark_default" />
+
+        <CheckBox
+            android:id="@+id/cbSelectAllVehicles"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/Reeeeeeeee"
+            android:text="Select All"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="69dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Make:"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="28sp" />
+
+        <Spinner
+            android:id="@+id/spinnerMake"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@color/common_google_signin_btn_text_dark_default" />
+
+        <CheckBox
+            android:id="@+id/cbSelectMake"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/Reeeeeeeee"
+            android:text="Select All"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="69dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Number of Seats:"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="28sp" />
+
+        <Spinner
+            android:id="@+id/spinnerSeats"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@color/common_google_signin_btn_text_dark_default" />
+
+        <CheckBox
+            android:id="@+id/cbSelectAllSeats"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/Reeeeeeeee"
+            android:text="Select All"
+            android:textColor="@color/common_google_signin_btn_text_dark_default"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnSearchCustomized"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search" />
+
+    <CheckBox
+        android:id="@+id/cbSelectAll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="Show All Vehicles"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnShowAll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show All Vehicles" />
+</LinearLayout>

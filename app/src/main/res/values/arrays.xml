@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hotels">
+        <item>Happy Day Inn</item>
+        <item>401 Inn</item>
+        <item>Capilano Inn</item>
+        <item>Park Plaza</item>
+        <item>JW Marriot</item>
+        <item>Grousse Inn</item>
+        <item>Holiday Inn</item>
+        <item>Sandman Hotel Vancouver Airport</item>
+        <item>Sheraton Vancouver Guildford Hotel</item>
+        <item>Met Hotel</item>
+        <item>Executive Plaza Hotel</item>
+        <item>Surestay Plus Hotel</item>
+        <item>Arundel Mansions Hotel</item>
+        <item>Fairmont Vancouver Airport In-Terminal Hotel</item>
+        <item>Civic Hotel</item>
+        <item>Days Inn</item>
+        <item>Queens Hotel</item>
+        <item>Turf Hotel</item>
+    </string-array>
+    <string-array name="array_entries">ID,Make,Model,Seating Capacity</string-array>
+    <string-array name="locations">Burnaby,New Westminster,Downtown Vancouver,Surrey,Langley
+    </string-array>
+    <string-array name="role">
+    <item>Administrator</item>
+    <item>Client</item>
+    </string-array>
+
+    <string-array name="CardTypes">
+    <item>Visa</item>
+    <item>Mastercard</item>
+    <item>American Express</item>
+    <item>Discover</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+1) Project runs best on Pixel 10 API 27
+2) Change String site in :
+	a) LoginRegisterClasses/DownloadService.java
+	b) TaxiServiceClasses/DownloadService_taxi.java
+	c) TouristAttractionsActivity/DownloadService_Tourist.java
+3) I have provided a backup of js file(nodeDB1_http.js) containing script used in our project and sql file(FinalProjectDB_final.sql) containing backup of our database.

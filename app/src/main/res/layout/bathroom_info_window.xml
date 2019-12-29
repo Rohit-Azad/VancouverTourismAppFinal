@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/window_title"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:maxWidth="200dp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/window_snippet"
+        android:layout_width="wrap_content"
+        android:maxWidth="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/window_title"
+        android:paddingTop="6dp" />
+
+    <ImageView
+        android:id="@+id/accessible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/window_snippet"
+        android:layout_toEndOf="@id/window_snippet"
+        android:src="@drawable/accessible"
+        android:layout_below="@id/window_title"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginBottom="-24dp"
+        android:layout_marginTop="-16dp"
+        android:contentDescription="@string/accessible" />
+
+    <ImageView
+        android:id="@+id/unisex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/unisex"
+        android:layout_toRightOf="@id/window_snippet"
+        android:layout_toEndOf="@id/window_snippet"
+        android:layout_below="@id/accessible"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="3dp"
+        android:contentDescription="@string/unisex" />
+
+</RelativeLayout>

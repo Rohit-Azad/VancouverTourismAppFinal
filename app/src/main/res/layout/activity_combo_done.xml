@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ComboPlansClasses.ComboDoneActivity">
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/common_google_signin_btn_text_dark_focused"
+        android:gravity="center"
+        android:text="Combo Deal Details"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="48sp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:background="@drawable/lgrey">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="match_parent"
+                android:layout_height="163dp"
+                app:srcCompat="@drawable/combo" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="243dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/common_google_signin_btn_text_dark_focused"
+                    android:text="Name"
+                    android:textColor="@color/common_google_signin_btn_text_dark_default"
+                    android:textSize="36sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvName"
+                    android:layout_width="642dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/chat_box_right"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                    android:textSize="36sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="243dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/common_google_signin_btn_text_dark_focused"
+                    android:text="Rental Car"
+                    android:textColor="@color/common_google_signin_btn_text_dark_default"
+                    android:textSize="36sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvSelectedCar"
+                    android:layout_width="642dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/chat_box_right"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                    android:textSize="36sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="243dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/common_google_signin_btn_text_dark_focused"
+                    android:text="Hotel Name"
+                    android:textColor="@color/common_google_signin_btn_text_dark_default"
+                    android:textSize="36sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvSelectedHotel"
+                    android:layout_width="642dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/chat_box_right"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                    android:textSize="36sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="243dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/common_google_signin_btn_text_dark_focused"
+                    android:text="Booking ID"
+                    android:textColor="@color/common_google_signin_btn_text_dark_default"
+                    android:textSize="36sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvBookingID"
+                    android:layout_width="642dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/chat_box_right"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                    android:textSize="36sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="243dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/common_google_signin_btn_text_dark_focused"
+                    android:text="Total Price (inc. Taxes)"
+                    android:textColor="@color/common_google_signin_btn_text_dark_default"
+                    android:textSize="36sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvTotalPrice"
+                    android:layout_width="642dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/chat_box_right"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                    android:textSize="36sp" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnGoBackMain"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:text="Go Back to Main Page"
+                android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                android:textSize="28sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

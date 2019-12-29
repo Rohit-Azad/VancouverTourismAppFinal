@@ -1,0 +1,123 @@
+[
+
+    {
+        "ID": "1",
+        "Name": "Samson V Museum",
+        "Desc": "The Samson V is an old steam-powered paddlewheeler that was retired from service as a working vessel on the Fraser and turned into a small museum. She is permanently docked near the Paddlewheeler Pub on the New West Boardwalk and sporadically opened for visitors to come aboard and have a look (the opening hours are more regular in the summertime). It's a little bit like the St. Roch in the Vancouver Maritime Museum, only smaller and still in the waters where she worked - maintaining all those things that need cleaning and fixing along a busy working waterway like the Fraser River. ",
+        "Pictures": [ "https://s3-media3.fl.yelpcdn.com/bphoto/az82VtSizycpjvSlDelVCA/o.jpg", "https://s3-media3.fl.yelpcdn.com/bphoto/IUpzwyq2YiImWNXPt7v-DA/o.jpg", "https://s3-media3.fl.yelpcdn.com/bphoto/EPzp-lI_a_JOtyvI9AyMsg/o.jpg", "https://s3-media1.fl.yelpcdn.com/bphoto/xv8_KmXoBa2nI1Lp6Vo_UQ/o.jpg" ]
+    },
+    {
+        "ID": "2",
+        "Name": "Pier Park",
+        "Desc": "The New Westminster Pier Park presents an opportunity for the community to reclaim its downtown waterfront as park and public spaces. PWL’s design embraces New Westminster’s rich heritage while addressing key urban design issues, such as connecting this former industrial site to the community, integrating a future civic centre and other development sites, and creating rich active open spaces.",
+        "Pictures": [ "http://www.pwlpartnership.com/sites/default/files/imagecache/large/Westminster%20Pier%20Park%20033.jpg", "https://www.csla-aapc.ca/sites/csla-aapc.ca/files/web-atlas/projects/2013%20Regional%20Honour%20-%20Design%2C%20PWL%2C%20Westminster%20Pier%20Park%2010.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/0e/8b/b3/94/new-westminster-pier.jpg", "https://live.staticflickr.com/3782/9675890792_cfc398e389_b.jpg" ]
+    },
+    {
+        "ID": "3",
+        "Name": "Starlight Casino",
+        "Desc": "Open 24/7, the Edgewater is downtown Vancouver’s only casino. Not only is it convenient, but this scenic waterfront venue also boasts a gorgeous view of False Creek. The downtown casino offers plenty of fun casino slots and games to keep you busy all night (or day). Take a turn on one of their 600 exciting slot machines or try your luck at one of their 70 table games. They've got all the classics here: blackjack, roulette, baccarat and poker. Edgewater also has delicious dining specials if you work up an appetite on the gaming floor.",
+        "Pictures": [ "http://www.starlightcasino.ca/wp-content/uploads/sites/2/2013/07/rotator-starlight1.jpg", "https://westcoastfood.ca/wp-content/uploads/2016/03/Starlight-header-crop-1.jpg", "https://www.gatewaycasinos.com/wp-content/uploads/2018/03/sle-news-image.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/0c/cc/7f/07/redbar-at-starlight-casino.jpg" ]
+    },
+    {
+        "ID": "4",
+        "Name": "Hazelmere Golf & Tennis Club",
+        "Desc": "Hazelmere Golf Course first opened in 1962, and it has maintained a reputation for excellence ever since. Conveniently located in Surrey, which is near the U.S. Border, White Rock Beach and the Township of Langley, Hazelmere has earned a place among the finest British Columbia golf courses.",
+        "Pictures": [ "https://media-cdn.tripadvisor.com/media/photo-s/0b/0d/4c/70/hazelmere-clubhouse.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/0b/0d/4c/70/hazelmere-clubhouse.jpg", "https://b.zmtcdn.com/data/pictures/3/16708573/25bcfa53863de16fb4146444281dcdcf_featured_v2.jpg", "https://i1.wp.com/wcgg.golf/wp-content/uploads/2018/10/hazelmere-course-2-2694480016-1557607778327.jpg" ]
+    },
+    {
+        "ID": "5",
+        "Name": "Holland Park",
+        "Desc": "Holland Park is a park in the city of Surrey, British Columbia, located within the town centre of Whalley beside the Central City Shopping Centre. It is 10 hectare in size and although it is not the largest park in the city, it has been called the Central Park of Surrey city centre.",
+        "Pictures": [ "https://www.surrey.ca/images/cos-master/pageImages/Holland_Park_in_Late_Summer.jpg", "https://www.surrey.ca/images/photoGallery/Holland_Park_City_Centre_rdax_400x229.jpg", "https://i0.wp.com/vancouversbestplaces.com/wp-content/uploads/2017/09/Holland-Park-Play-Structure.jpg", "https://www.surrey.ca/images/cos-master/pageImages/Holland_Park_Gardens.jpg" ]
+    },
+    {
+        "ID": "6",
+        "Name": "Fraser Downs Racetrack & Casino",
+        "Desc": "Located just out side of Vancouver, in the heart of Cloverdale, BC, Fraser Downs Racetrack & Casino combines the thrill of live standardbred horse racing with exhilarating casino action. Horse racing enthusiasts can enjoy live action from October through June, while the Casino delights gamers with over 460 slot machines, and the best poker in the area. Add in a fantastic selection of dining options, with stunning views of the track and you’ve got the perfect night out. Fraser Downs is the ideal place to host your next corporate event, wedding party or just a night out! Contact us to make a group booking or reserve a Fraser Downs venue for your event!",
+        "Pictures": [ "https://i2.wp.com/canadacasinoindex.com/wp-content/uploads/2014/08/Fraser_Downs.png", "https://djxhh4yqhymvs.cloudfront.net/Facility/4844/4754dd71-1249-4a14-b288-2010a8a6a2ae@500px.jpg", "https://gcgaming.com/wp-content/uploads/2014/06/Fraser-Downs.jpg", "http://www.greatervancouverhotels.com/casinos/images/fraser24.jpg" ]
+    },
+    {
+        "ID": "7",
+        "Name": "Sushi Garden Japanese Restaurant",
+        "Desc": "Sushi Garden in Burnaby, BC is probably one of the busiest sushi restaurants in Metro Vancouver. It’s a large restaurant, but it fills up quickly and there’s a guaranteed line up that usually starts at 6pm. I’ve come here on numerous occasions, and it’s not my favourite sushi restaurant, but it’s bang for your buck sushi and it does the job if you’re in the area… especially after a hard day’s worth of shopping at Metrotown mall across the street.",
+        "Pictures": [ "https://www.santacruzsentinel.com/wp-content/uploads/migration/2015/201505/FEATURES_150529799_EP_-1_FQQXIGZDIXOD.jpg", "http://www.sushigarden.co.uk/images/slideImages/wp_IMG_6875.JPG", "http://www.sushi-garden.com/2015/wp-content/uploads/2018/01/sg2018-17-1030x543.jpg", "https://www.santacruzsentinel.com/wp-content/uploads/migration/2015/201505/FEATURES_150529799_EP_-1_UDZXLKNFOXTB.jpg" ]
+    },
+    {
+        "ID": "8",
+        "Name": "Robert Burnaby Park",
+        "Desc": "Robert Burnaby Park is a large public park in East Burnaby, just south of Burnaby Lake, located off Edmonds and 4th Street. It has an extensive trail system, as well as tennis courts and a swimming pool in the cleared upper slope area.",
+        "Pictures": [ "http://www.burnabytoday.com/wpimages/1fc0bfca11b3.jpg", "http://www.burnabytoday.com/wpimages/25698265d002.jpg", "https://cdn.ehcanadatravel.com/images/sobipro/entries/4918/img_robert-burnaby-park.jpg", "https://www.burnaby.ca/Assets/New+Things+To+Do/Explore+The+Outdoors/Parks/Parks+-+Robert+Burnaby+Feature.jpg" ]
+    },
+    {
+        "ID": "9",
+        "Name": "Patterson Park",
+        "Desc": "Patterson Avenue Multi-Use Trail is the second phase of a multi-phase construction project which will provide a lit perimeter pedestrian and cycling trail around Central Park. Construction of this portion of the trail will be completed by end of June 2019. All efforts will be made to minimize inconveniences during the construction period.",
+        "Pictures": [ "https://www.burnaby.ca/Assets/New+Things+To+Do/Explore+The+Outdoors/Parks/Central+Park+Main+Page+Image.jpg", "https://cdn.tourbytransit.com/vancouver/images/562%20px-Central%20Park.jpg", "https://shared-s3.property.ca/public/images/buildings/patterson-park-4155-central-blvd/patterson-park-4155-central-blvd-original-1.jpg", "https://i.cbc.ca/1.4749897.1531836959!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/burnaby-central-park.jpg" ]
+    },
+    {
+        "ID": "10",
+        "Name": "Burnaby Mountain Park",
+        "Desc": "Burnaby Mountain, elev. 370 m (1,214 ft), is a low, forested mountain in the city of Burnaby, British Columbia, overlooking the upper arms of Burrard Inlet. It is the location of Simon Fraser University, the Discovery Park research community, and the System Control Tower of BC Hydro and a new complex of residential and commercial development called UniverCity. In November 1995, the Province of British Columbia and Simon Fraser University reached an agreement to transfer 330 hectares of university land to the City of Burnaby for inclusion into Burnaby Mountain Conservation Area.",
+        "Pictures": [ "http://www.willhiteweb.com/british_columbia/burnaby_mountain_park/burnaby_mountain_park_sign.jpg", "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Bby_Mountain.JPG/270px-Bby_Mountain.JPG", "https://media-cdn.tripadvisor.com/media/photo-s/03/35/b1/2f/burnaby-mountain-park.jpg", "https://cdn-assets.alltrails.com/uploads/photo/image/22792761/extra_large_7acb18458d746f9cd4886bbc54f705bf.jpg" ]
+    },
+    {
+        "ID": "11",
+        "Name": "Jericho Beach",
+        "Desc": "Jericho Beach, known originally as iy'a'l'mexw in Squamish, a Vancouver beach, is located west of the seaside neighbourhood of Kitsilano. It is surrounded by Jericho Beach Park, a grassy area with a pond, which is a picnic destination. Jericho Beach is the home of the Jericho Sailing Centre Association",
+        "Pictures": [ "https://images.dailyhive.com/20171024234055/vancouver-jericho-pier-jericho-beach.jpg", "https://i.cbc.ca/1.3968896.1486408860!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/snow-whale-and-artist.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/01/e9/70/a1/the-beach.jpg", "https://images.glaciermedia.ca/polopoly_fs/1.23445126.1538086692!/fileImage/httpImage/image.jpg_gen/derivatives/landscape_804/sunset-jericho-beach.jpg" ]
+    },
+    {
+        "ID": "12",
+        "Name": "Deep Cove",
+        "Desc": "Deep Cove refers to the community in the easternmost part of the District of North Vancouver, in British Columbia, Canada, and is also the geographic name of the small bay beside the town. It is affectionately referred to as The Cove by local residents.",
+        "Pictures": [ "https://i1.wp.com/vancouversbestplaces.com/wp-content/uploads/2019/01/Deep-Cove-Marina-in-Winter.jpg", "https://d3qvqlc701gzhm.cloudfront.net/thumbs/46eec67a3e0f914f77ff1374a78ae780ff9decfcdaa845d2da1e08215d2e2e89-375.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Deep_cove2560.jpg/300px-Deep_cove2560.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/01/49/aa/ee/deep-cove.jpg" ]
+    },
+    {
+        "ID": "13",
+        "Name": "Grouse Mountain",
+        "Desc": "Grouse Mountain is one of the North Shore Mountains of the Pacific Ranges in the District Municipality of North Vancouver, British Columbia, Canada. With a maximum elevation of over 1,200 m (4,100 feet) at its peak, the mountain is the site of an alpine ski area, Grouse Mountain Resort, which overlooks Greater Vancouver has four chairlifts servicing 33 runs. In the summer, Grouse Mountain Resort features lumberjack shows, the Birds,in Motion birds of prey demonstration, a scenic chairlift ride, disc golf, mountain biking, zip lining, tandem paragliding, helicopter tours, and guided ecowalks.",
+        "Pictures": [ "https://postmediavancouversun2.files.wordpress.com/2016/09/people-people-ride-on-top-of-a-grouse-mountain-cable-car-on.jpeg", "https://images.dailyhive.com/20170718091254/grouse-mountain-gondola.jpg", "https://www.grousemountain.com/assets/map/snowshoe-trail-map-2017-web.jpg", "https://images.dailyhive.com/20170322175550/The-set-up-for-Red-Bull-Uncorked-on-Grouse-Mountain-in-Vancouver-5-Jussi-Grznar-Red-Bull.jpg" ]
+    },
+    {
+        "ID": "14",
+        "Name": "English Bay Beach",
+        "Desc": "English Bay is located in Vancouver, British Columbia, Canada, west of the downtown peninsula and False Creek. It consists of the south side of the Burrard Inlet, extending from Point Grey in the southwest to Prospect Point in the northeast",
+        "Pictures": [ "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/English_Bay%2C_Vancouver%2C_BC.jpg/292px-English_Bay%2C_Vancouver%2C_BC.jpg", "https://vancouver.ca/images/cov/feature/english-bay-landing.jpg", "https://i2.wp.com/vancouversbestplaces.com/wp-content/uploads/2018/06/Stanley-Park-Seawall-at-English-Bay.jpg", "https://www.insidevancouver.ca/wp-content/uploads/2016/03/800px-English_Bay_6429675067-1.jpg" ]
+    },
+    {
+        "ID": "15",
+        "Name": "Stanley Park",
+        "Desc": "Stanley Park is a 405-hectare public park that borders the downtown of Vancouver in British Columbia, Canada and is mostly surrounded by waters of Burrard Inlet and English Bay. The park has a long history and was one of the first areas to be explored in the city.",
+        "Pictures": [ "https://www.columbiacollege.ca/wp-content/uploads/2019/04/stanley-park-bike-ride.jpg", "https://i0.wp.com/vancouversbestplaces.com/wp-content/uploads/2019/05/Stanley-Park-and-Lower-Mainland.jpg", "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_65,w_845/v1/clients/vancouverbc/Stanley_Park_Aerial_2_e7b07092-f98f-406a-953b-c350f9a70402.jpg", "https://vancouver.ca/images/cov/feature/stanley-park-seawall-beach-landing.jpg" ]
+    },
+    {
+        "ID": "16",
+        "Name": "FlyOver Canada",
+        "Desc": "FlyOver Canada utilizes state-of-the-art technology to give you the feeling of flight. You will hang suspended, feet dangling, before a 20-metre spherical screen while our film whisks you away on an exhilarating 8-minute journey across Canada, from east to west. Special effects, including wind, mist and scents, combine with the ride’s motion to create an unforgettable experience.",
+        "Pictures": [ "https://www.flyovercanada.com/FlyOverCanada/media/FlyOver/Promotions/2018/PR-Ride-Niagara-Falls.jpg", "https://www.flyovercanada.com/FlyOverCanada/media/FlyOver/Stories/2018/03/BL-Riding-FlyOver-Canada-Assiniboine.jpg", "https://westcoastsightseeing.com/wp-content/uploads/2018/03/FlyOver-Canada-View-from-Flight-Deck.jpg", "https://sherpascinema.com/wp-content/uploads/2013/08/FlyOverCanada_BC-HaidaGwaii_InsideHeli-1180x786.jpg" ]
+    },
+    {
+        "ID": "17",
+        "Name": "Iona Beach Regional Park",
+        "Desc": "Iona Island in Richmond, British Columbia, Canada was formerly an island, but is now a peninsula physically connected to Sea Island via a causeway and Ferguson Road. Iona is home to a primary sewage treatment plant (located in the middle), an animal refuge and a park (Iona Beach Regional Park).The Iona Sewage plant is located near the centre of the island and has tours for the public.",
+       "Pictures": [ "https://www.vancouvertrails.com/images/photos/iona-beach-regional-park-3.jpg", "https://www.vancouvertrails.com/images/photos/iona-beach-regional-park-2.jpg", "https://604now.com/wp-content/uploads/2017/05/iona_beach-e1494874666926.png", "https://www.littleadventuresco.com/wp-content/uploads/2019/02/49781309_10156639775760395_8765643976117059584_n.jpg" ]
+    },
+    {
+        "ID": "18",
+        "Name": "Minoru Park",
+        "Desc": "Minoru Park is a park located on the site of a former horse-racing track and airstrip in Richmond, British Columbia. The Minoru Park's running track is often used by School District 38 Richmond for school competitions, such as track and field",
+        "Pictures": [ "https://www.richmond.ca/__shared/assets/Minoru-mens-cricket-30-04-17-CopyrightPlowman50764.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/03/b1/89/c9/minoru-park.jpg", "https://vancouversbestplaces.com/wp-content/uploads/2016/08/Minoru-Park-Pond-VBPs.jpg", "https://images.glaciermedia.ca/polopoly_fs/1.20629935.1497632529!/fileImage/httpImage/image.jpg_gen/derivatives/landscape_804/minoru.jpg" ]
+    },
+    {
+        "ID": "19",
+        "Name": "Garry Point Park",
+        "Desc": "Garry Point Park is large waterfront park, located at the southwest tip of Richmond, close to historic Steveston Village. The park provides spectacular vistas across the Salish Sea and beyond to Vancouver Island and the Gulf Islands. Garry Point Park is considered by many to be one of the best places to watch a sunset in Richmond.",
+        "Pictures": [ "https://www.insidevancouver.ca/wp-content/uploads/2016/05/Garry-Point-Park-550x367.jpg", "https://cdn.ehcanadatravel.com/images/sobipro/entries/5027/img_garry-point-park.jpg", "https://s3-media4.fl.yelpcdn.com/bphoto/vx7CkUmtW0eKEt_qazgPPQ/ls.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/07/ff/55/a6/garry-point-park.jpg" ]
+    },
+    {
+        "ID": "20",
+        "Name": "Steveston Heritage Fishing Village",
+        "Desc": "The smell of saltwater fills the air as fishing boats ebb and flow in the harbour. A bald eagle surveys the landscape from just offshore, while on the ground, a bustling main street is alive with the sound of merchants and commerce. You’ve just stepped foot in the historic fishing village of Steveston, and right away, you’ll realize why it’s one of Richmond’s most popular destinations.",
+        "Pictures": [ "https://media-cdn.tripadvisor.com/media/photo-s/0e/1f/3e/10/restaurants-at-steveston.jpg", "https://media-cdn.tripadvisor.com/media/photo-s/01/f8/bf/90/fishery-ships-steveston.jpg", "https://live.staticflickr.com/3953/15690573156_a596eaa070_b.jpg", "http://wanderlustguide.ca/travels/wp-content/uploads/2016/02/Steveston-Heritage-Fishing-Village-.jpg" ]
+    }
+        ]

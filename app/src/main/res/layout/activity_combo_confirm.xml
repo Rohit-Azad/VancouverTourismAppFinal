@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/lgrey"
+    android:orientation="vertical"
+    tools:context=".ComboPlansClasses.ComboConfirmActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:background="@color/common_google_signin_btn_text_dark_focused"
+                android:gravity="center"
+                android:text="Enter Personal Information:"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textSize="48sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="380dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/common_google_signin_btn_text_dark_focused"
+                    android:text="Name"
+                    android:textColor="@color/common_google_signin_btn_text_dark_default"
+                    android:textSize="36sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/etComboName"
+                    android:layout_width="500dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/chat_box_left"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                    android:textSize="36sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:background="@color/chat_box_left"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView24"
+                    android:layout_width="208dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/common_google_signin_btn_text_dark_focused"
+                    android:text="Card Type"
+                    android:textColor="@color/common_google_signin_btn_text_dark_default"
+                    android:textSize="36sp"
+                    android:textStyle="bold" />
+
+                <Spinner
+                    android:id="@+id/spinnerCardType"
+                    android:layout_width="250dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/chat_box_left"
+                    android:entries="@array/CardTypes" />
+
+                <TextView
+                    android:layout_width="156dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/common_google_signin_btn_text_dark_focused"
+                    android:text="Expiry"
+                    android:textColor="@color/common_google_signin_btn_text_dark_default"
+                    android:textSize="36sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/etExpiry"
+                    android:layout_width="250dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:inputType="phone"
+                    android:maxLength="5"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                    android:textSize="36sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="243dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/common_google_signin_btn_text_dark_focused"
+                    android:text="Card Number"
+                    android:textColor="@color/common_google_signin_btn_text_dark_default"
+                    android:textSize="36sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/etCardNumber"
+                    android:layout_width="633dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/chat_box_left"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                    android:textSize="36sp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:background="@color/common_google_signin_btn_text_dark_focused"
+                android:gravity="center"
+                android:text="Price Breakdown:"
+                android:textColor="@color/common_google_signin_btn_text_dark_default"
+                android:textSize="48sp"
+                android:textStyle="bold" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="342dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/common_google_signin_btn_text_dark_focused"
+                    android:text="Combo Offer Price"
+                    android:textColor="@color/common_google_signin_btn_text_dark_default"
+                    android:textSize="36sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvComboPrice"
+                    android:layout_width="537dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/chat_box_right"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                    android:textSize="36sp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="243dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/common_google_signin_btn_text_dark_focused"
+                    android:text="Tax(15%)"
+                    android:textColor="@color/common_google_signin_btn_text_dark_default"
+                    android:textSize="36sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvComboTax"
+                    android:layout_width="642dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/chat_box_right"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                    android:textSize="36sp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="243dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@color/common_google_signin_btn_text_dark_focused"
+                    android:text="Total Price"
+                    android:textColor="@color/common_google_signin_btn_text_dark_default"
+                    android:textSize="36sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvComboTotalPrice"
+                    android:layout_width="642dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/chat_box_right"
+                    android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                    android:textSize="36sp" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnComboConfirm"
+                android:layout_width="868dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:text="Confirm and Show Details of Booking" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
